@@ -1,9 +1,8 @@
 # From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents
 This repository contains the **prompt and code** for the paper:
 
-**From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents**
-Myeongseob Ko*, Jihyun Jeong*, Sumiran Singh Thakur, Gyuhak Kim, Ruoxi Jia
-*Equal Contribution
+**From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents**   
+Myeongseob Ko*, Jihyun Jeong*, Sumiran Singh Thakur, Gyuhak Kim, Ruoxi Jia  
 
 ```
 @article{ko2026weakcues,
