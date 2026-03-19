@@ -1,14 +1,15 @@
-# Nerfies
+# From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents
+This repository contains the **prompt and code** for the paper:
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+**From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents**   
+Myeongseob Ko*, Jihyun Jeong*, Sumiran Singh Thakur, Gyuhak Kim, Ruoxi Jia  
 
-If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{ko2026weakcues,
+title={From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents},
+author={Ko, Myeongseob and Jeong, Jihyun and Thakur, Sumiran Singh and Kim, Gyuhak and Jia, Ruoxi},
+journal={arXiv preprint arXiv:XXXX.XXXXX},
+year={2026}
 }
 ```
 
