@@ -1,0 +1,112 @@
+[
+  {
+    "CustomerID": "CUST-1023",
+    "TotalRevenue_USD_Lifetime": 1247.85,
+    "EmailAddress": "jennifer.martinez@emailprovider.com",
+    "FullOrderHistory_Raw": "ORD-10234,ORD-10456,ORD-10892,ORD-11234",
+    "PrimaryProductCategoryPurchased": "Home_Kitchen_Appliances",
+    "MembershipTier": "Silver",
+    "AvgOrderValueCategory": "Spend_50_to_100_USD",
+    "Loyalty_Segment_Tier": "Occasional_Buyer_Segment",
+    "Refund_Frequency": "Low_Return_Rate_0_to_5_Percent"
+  },
+  {
+    "CustomerID": "CUST-1456",
+    "TotalRevenue_USD_Lifetime": 8934.2,
+    "EmailAddress": "david.thompson@webmail.net",
+    "FullOrderHistory_Raw": "ORD-20145,ORD-20378,ORD-20891,ORD-21456,ORD-21789,ORD-22134,ORD-22567,ORD-23012,ORD-23456,ORD-23890,ORD-24123,ORD-24567",
+    "PrimaryProductCategoryPurchased": "Electronics_Computers",
+    "MembershipTier": "Platinum",
+    "AvgOrderValueCategory": "Spend_200_to_500_USD",
+    "Loyalty_Segment_Tier": "VIP_Ambassador_Top_1_Percent_Spender",
+    "Refund_Frequency": "Moderate_Return_Rate_10_to_15_Percent"
+  },
+  {
+    "CustomerID": "CUST-1789",
+    "TotalRevenue_USD_Lifetime": 456.3,
+    "EmailAddress": "lisa.anderson@mailservice.org",
+    "FullOrderHistory_Raw": "ORD-30234,ORD-30567",
+    "PrimaryProductCategoryPurchased": "Fashion_Apparel_Accessories",
+    "MembershipTier": "Bronze",
+    "AvgOrderValueCategory": "Spend_25_to_50_USD",
+    "Loyalty_Segment_Tier": "New_Customer_Trial_Segment",
+    "Refund_Frequency": "High_Return_Rate_20_to_30_Percent"
+  },
+  {
+    "CustomerID": "CUST-2134",
+    "TotalRevenue_USD_Lifetime": 3567.9,
+    "EmailAddress": "robert.williams@corporate-email.com",
+    "FullOrderHistory_Raw": "ORD-40123,ORD-40456,ORD-40789,ORD-41023,ORD-41356,ORD-41689,ORD-42012",
+    "PrimaryProductCategoryPurchased": "Sports_Outdoor_Gear",
+    "MembershipTier": "Gold",
+    "AvgOrderValueCategory": "Spend_100_to_200_USD",
+    "Loyalty_Segment_Tier": "Frequent_Buyer_High_Engagement_Tier",
+    "Refund_Frequency": "Very_Low_Return_Rate_Under_3_Percent"
+  },
+  {
+    "CustomerID": "CUST-2847",
+    "TotalRevenue_USD_Lifetime": 12456.75,
+    "EmailAddress": "sarah.johnson@enterprise-solutions.com",
+    "FullOrderHistory_Raw": "ORD-50234,ORD-50567,ORD-50890,ORD-51234,ORD-51567,ORD-51890,ORD-52234,ORD-52567,ORD-52890,ORD-53234,ORD-53567,ORD-53890,ORD-54234,ORD-54567,ORD-54890",
+    "PrimaryProductCategoryPurchased": "Books_Media_Educational",
+    "MembershipTier": "Diamond",
+    "AvgOrderValueCategory": "Spend_500_Plus_USD",
+    "Loyalty_Segment_Tier": "Elite_Platinum_Lifetime_Member",
+    "Refund_Frequency": "Zero_Return_Perfect_Satisfaction"
+  },
+  {
+    "CustomerID": "CUST-3012",
+    "TotalRevenue_USD_Lifetime": 678.45,
+    "EmailAddress": "michael.davis@freelance-hub.io",
+    "FullOrderHistory_Raw": "ORD-60123,ORD-60456,ORD-60789",
+    "PrimaryProductCategoryPurchased": "Beauty_Personal_Care",
+    "MembershipTier": "Silver",
+    "AvgOrderValueCategory": "Spend_50_to_100_USD",
+    "Loyalty_Segment_Tier": "Seasonal_Shopper_Holiday_Segment",
+    "Refund_Frequency": "Moderate_Return_Rate_10_to_15_Percent"
+  },
+  {
+    "CustomerID": "CUST-3456",
+    "TotalRevenue_USD_Lifetime": 5234.6,
+    "EmailAddress": "emily.brown@tech-startup.co",
+    "FullOrderHistory_Raw": "ORD-70234,ORD-70567,ORD-70890,ORD-71234,ORD-71567,ORD-71890,ORD-72234,ORD-72567,ORD-72890",
+    "PrimaryProductCategoryPurchased": "Home_Kitchen_Appliances",
+    "MembershipTier": "Gold",
+    "AvgOrderValueCategory": "Spend_200_to_500_USD",
+    "Loyalty_Segment_Tier": "Loyal_Advocate_Referral_Tier",
+    "Refund_Frequency": "Low_Return_Rate_0_to_5_Percent"
+  },
+  {
+    "CustomerID": "CUST-3789",
+    "TotalRevenue_USD_Lifetime": 234.9,
+    "EmailAddress": "james.wilson@student-mail.edu",
+    "FullOrderHistory_Raw": "ORD-80123",
+    "PrimaryProductCategoryPurchased": "Toys_Games_Hobbies",
+    "MembershipTier": "Bronze",
+    "AvgOrderValueCategory": "Spend_25_to_50_USD",
+    "Loyalty_Segment_Tier": "Budget_Conscious_Deal_Seeker",
+    "Refund_Frequency": "Very_High_Return_Rate_Over_30_Percent"
+  },
+  {
+    "CustomerID": "CUST-4123",
+    "TotalRevenue_USD_Lifetime": 16789.3,
+    "EmailAddress": "patricia.moore@investment-firm.net",
+    "FullOrderHistory_Raw": "ORD-90234,ORD-90567,ORD-90890,ORD-91234,ORD-91567,ORD-91890,ORD-92234,ORD-92567,ORD-92890,ORD-93234,ORD-93567,ORD-93890,ORD-94234,ORD-94567,ORD-94890,ORD-95234,ORD-95567,ORD-95890",
+    "PrimaryProductCategoryPurchased": "Luxury_Premium_Goods",
+    "MembershipTier": "Diamond",
+    "AvgOrderValueCategory": "Spend_500_Plus_USD",
+    "Loyalty_Segment_Tier": "Ultra_Premium_Concierge_Service_Tier",
+    "Refund_Frequency": "Zero_Return_Perfect_Satisfaction"
+  },
+  {
+    "CustomerID": "CUST-4567",
+    "TotalRevenue_USD_Lifetime": 1876.25,
+    "EmailAddress": "christopher.taylor@design-agency.com",
+    "FullOrderHistory_Raw": "ORD-100234,ORD-100567,ORD-100890,ORD-101234,ORD-101567",
+    "PrimaryProductCategoryPurchased": "Automotive_Parts_Accessories",
+    "MembershipTier": "Silver",
+    "AvgOrderValueCategory": "Spend_100_to_200_USD",
+    "Loyalty_Segment_Tier": "Growing_Customer_Potential_Tier",
+    "Refund_Frequency": "Low_Return_Rate_0_to_5_Percent"
+  }
+]

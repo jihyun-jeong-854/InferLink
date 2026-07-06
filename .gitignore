@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Run outputs
+outputs/
+*.jsonl.tmp
+
+# OS / editor
+.DS_Store
+.DS_store
+.idea
+.ipynb_checkpoints/

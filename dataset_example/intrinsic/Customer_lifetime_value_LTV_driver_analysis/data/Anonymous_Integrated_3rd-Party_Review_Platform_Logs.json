@@ -1,0 +1,112 @@
+[
+  {
+    "AnonymousReviewerID": "AREV-12A3B4C5",
+    "ReviewText_List_Raw": "Great product quality, fast shipping, highly recommend, will buy again, excellent customer service",
+    "HelpfulVotesReceived_Count": 23,
+    "Review_Frequency": "Quarterly_Reviewer_4_Per_Year",
+    "PrimaryProductCategoryPurchased": "Electronics_Computers",
+    "MembershipTier": "Gold",
+    "AvgOrderValueCategory": "Spend_100_to_200_USD",
+    "Loyalty_Segment_Tier": "Frequent_Buyer_High_Engagement_Tier",
+    "Refund_Frequency": "Moderate_Return_Rate_10_to_15_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-23B4C5D6",
+    "ReviewText_List_Raw": "Decent value for money, some quality issues, average experience, might consider alternatives",
+    "HelpfulVotesReceived_Count": 7,
+    "Review_Frequency": "Rare_Reviewer_1_Per_Year",
+    "PrimaryProductCategoryPurchased": "Fashion_Apparel_Accessories",
+    "MembershipTier": "Bronze",
+    "AvgOrderValueCategory": "Spend_25_to_50_USD",
+    "Loyalty_Segment_Tier": "Occasional_Buyer_Segment",
+    "Refund_Frequency": "High_Return_Rate_20_to_30_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-34C5D6E7",
+    "ReviewText_List_Raw": "Outstanding quality, exceeded expectations, premium materials, worth every penny, luxury experience",
+    "HelpfulVotesReceived_Count": 456,
+    "Review_Frequency": "Daily_Power_Reviewer_365_Plus_Per_Year",
+    "PrimaryProductCategoryPurchased": "Luxury_Premium_Goods",
+    "MembershipTier": "Diamond",
+    "AvgOrderValueCategory": "Spend_500_Plus_USD",
+    "Loyalty_Segment_Tier": "Ultra_Premium_Concierge_Service_Tier",
+    "Refund_Frequency": "Zero_Return_Perfect_Satisfaction (alt)"
+  },
+  {
+    "AnonymousReviewerID": "AREV-45D6E7F8",
+    "ReviewText_List_Raw": "Good selection, competitive prices, standard delivery, average product range",
+    "HelpfulVotesReceived_Count": 12,
+    "Review_Frequency": "Biannual_Reviewer_2_Per_Year",
+    "PrimaryProductCategoryPurchased": "Home_Kitchen_Appliances",
+    "MembershipTier": "Silver",
+    "AvgOrderValueCategory": "Spend_50_to_100_USD",
+    "Loyalty_Segment_Tier": "Seasonal_Shopper_Holiday_Segment",
+    "Refund_Frequency": "Low_Return_Rate_0_to_5_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-56E7F8G9",
+    "ReviewText_List_Raw": "Disappointing purchase, frequent returns needed, quality below expectations, customer service lacking",
+    "HelpfulVotesReceived_Count": 3,
+    "Review_Frequency": "Rare_Reviewer_1_Per_Year",
+    "PrimaryProductCategoryPurchased": "Toys_Games_Hobbies",
+    "MembershipTier": "Bronze",
+    "AvgOrderValueCategory": "Spend_25_to_50_USD",
+    "Loyalty_Segment_Tier": "New_Customer_Trial_Segment",
+    "Refund_Frequency": "Very_High_Return_Rate_Over_30_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-67F8G9H0",
+    "ReviewText_List_Raw": "Excellent outdoor gear, durable construction, reliable performance, great for adventures, highly satisfied",
+    "HelpfulVotesReceived_Count": 89,
+    "Review_Frequency": "Monthly_Active_Reviewer_12_Per_Year",
+    "PrimaryProductCategoryPurchased": "Sports_Outdoor_Gear",
+    "MembershipTier": "Platinum",
+    "AvgOrderValueCategory": "Spend_200_to_500_USD",
+    "Loyalty_Segment_Tier": "VIP_Ambassador_Top_1_Percent_Spender",
+    "Refund_Frequency": "Very_Low_Return_Rate_Under_3_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-78D4F2B1",
+    "ReviewText_List_Raw": "Exceptional educational resources, comprehensive content, excellent quality, perfect for learning, outstanding value, highly detailed materials, professional presentation",
+    "HelpfulVotesReceived_Count": 234,
+    "Review_Frequency": "Weekly_Super_Reviewer_52_Plus_Per_Year",
+    "PrimaryProductCategoryPurchased": "Books_Media_Educational",
+    "MembershipTier": "Diamond",
+    "AvgOrderValueCategory": "Spend_500_Plus_USD",
+    "Loyalty_Segment_Tier": "Elite_Platinum_Lifetime_Member",
+    "Refund_Frequency": "Zero_Return_Perfect_Satisfaction"
+  },
+  {
+    "AnonymousReviewerID": "AREV-89G0H1I2",
+    "ReviewText_List_Raw": "Nice beauty products, good ingredients, pleasant scents, reasonable pricing, satisfactory results",
+    "HelpfulVotesReceived_Count": 34,
+    "Review_Frequency": "Quarterly_Reviewer_4_Per_Year",
+    "PrimaryProductCategoryPurchased": "Beauty_Personal_Care",
+    "MembershipTier": "Gold",
+    "AvgOrderValueCategory": "Spend_100_to_200_USD",
+    "Loyalty_Segment_Tier": "Loyal_Advocate_Referral_Tier",
+    "Refund_Frequency": "Low_Return_Rate_0_to_5_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-90H1I2J3",
+    "ReviewText_List_Raw": "Perfect appliances, innovative features, energy efficient, modern design, excellent functionality",
+    "HelpfulVotesReceived_Count": 67,
+    "Review_Frequency": "Bimonthly_Reviewer_6_Per_Year",
+    "PrimaryProductCategoryPurchased": "Home_Kitchen_Appliances",
+    "MembershipTier": "Gold",
+    "AvgOrderValueCategory": "Spend_200_to_500_USD",
+    "Loyalty_Segment_Tier": "Growing_Customer_Potential_Tier",
+    "Refund_Frequency": "Moderate_Return_Rate_10_to_15_Percent"
+  },
+  {
+    "AnonymousReviewerID": "AREV-01I2J3K4",
+    "ReviewText_List_Raw": "Basic automotive parts, functional but not impressive, adequate for needs, standard quality",
+    "HelpfulVotesReceived_Count": 15,
+    "Review_Frequency": "Biannual_Reviewer_2_Per_Year",
+    "PrimaryProductCategoryPurchased": "Automotive_Parts_Accessories",
+    "MembershipTier": "Silver",
+    "AvgOrderValueCategory": "Spend_50_to_100_USD",
+    "Loyalty_Segment_Tier": "Budget_Conscious_Deal_Seeker",
+    "Refund_Frequency": "Moderate_Return_Rate_10_to_15_Percent"
+  }
+]
